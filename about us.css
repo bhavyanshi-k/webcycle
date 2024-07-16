@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    color: green;
+}
+p{
+    font-size: larger;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+   
+.division{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 54px;
+    margin-right: 52px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    float: left;
+    padding-top: 10px;
+    font-size: large;
+    font-family:cursive;
+    color: black;
+}
+.division:hover{
+    background-color: rgb(228, 248, 228);
+    border-radius: 25px;
+    transition-duration: 1s;
+}
+.backclass{
+    background-image: url("https://images.pexels.com/photos/1671325/pexels-photo-1671325.jpeg?auto=compress&cs=tinysrgb&w=800");
+    background-repeat: repeat;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(211, 235, 211);
+    padding-top: 70px;
+    padding-bottom: 70px;
+    border-radius: 20px;
+    color: white;
+}
+img{
+    border-radius: 8px;
+}
+.linkedin{
+    text-decoration: none;
+    color: black;
+}
+.instagram{
+    text-decoration: none;
+    color: black;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-size: medium;
+}
+a:hover{
+    font-size: large;
+    transition-duration: 1s;
+}
+.photo:hover{
+    transform: scale(1.25);
+    transition-duration: 1s;
+}
