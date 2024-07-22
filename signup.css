@@ -1,0 +1,87 @@
+body{
+    background-color: rgba(246, 246, 246, 0.933);
+}
+#heading{
+    color: green;
+    text-align: center;
+}
+.div1{
+    height: 90%;
+    width: 25%;
+    background-color: white;
+    float: left;
+    margin-left: 20%;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.83);
+    padding-left: 5%;
+    margin-bottom: 50px;
+}
+.div2{
+    height: 90%;
+    width: 30%;
+    background: linear-gradient(to right, rgba(124, 221, 124, 0.841), rgb(2, 147, 2));
+    float: left;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+    box-shadow: 10px 10px 5px grey;
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#name{
+    background-color: rgba(219, 213, 213, 0.507);
+    border-width: 0px;
+    border-radius: 20px;
+    height: 5%;
+    width: 75%;
+    opacity: 0.7;
+}
+#email{
+    background-color: rgba(219, 213, 213, 0.507);
+    border-width: 0px;
+    border-radius: 20px;
+    height: 5%;
+    width: 75%;
+    opacity: 0.7;
+}
+#mobile{
+    background-color: rgba(219, 213, 213, 0.507);
+    border-width: 0px;
+    border-radius: 20px;
+    height: 5%;
+    width: 75%;
+    opacity: 0.7;
+}
+#username{
+    background-color: rgba(219, 213, 213, 0.507);
+    border-width: 0px;
+    border-radius: 20px;
+    height: 5%;
+    width: 75%;
+    opacity: 0.7;
+}
+#pword{
+    background-color: rgba(219, 213, 213, 0.507);
+    border-width: 0px;
+    border-radius: 20px;
+    height: 5%;
+    width: 75%;
+    opacity: 0.7;
+}
+#signup{
+    background: linear-gradient(to right, rgba(124, 221, 124, 0.841), rgb(2, 147, 2));
+    border-width: 0px;
+    border-radius: 20px;
+    height: 5%;
+    width: 75%;
+}
+#login{
+    background-color: rgba(240, 248, 255, 0);
+    border-width: 2px;
+    border-color: white;
+    border-radius: 20px;
+    color: white;
+    height: 5%;
+    width: 25%;
+}
