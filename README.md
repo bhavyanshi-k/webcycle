@@ -21,12 +21,12 @@ Follow these steps to set up Webcycle on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Mvishere/webcycle.git
+   git clone https://github.com/bhavyanshi-k/Webcycle.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd webcycle
+   cd Webcycle
    ```
 
 3. **Install dependencies**:
